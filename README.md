@@ -4,6 +4,7 @@
 * Change into the repo directory `cd liran-flask-crud`
 * Build the docker image `build`
 * Run the app `run`
+* Navigate to http://localhost:5000/data/create
 
 # Notes
 
